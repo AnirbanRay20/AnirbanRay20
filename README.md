@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AnirbanRay20
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning
+-     C and C++
 -     And Python and Java
 - 💞️ I’m looking to collaborate with Google
 - 📫 How to reach me:- anirbanmark1429@gmail.com
